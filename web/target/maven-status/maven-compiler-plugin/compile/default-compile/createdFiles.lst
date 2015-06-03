@@ -1,0 +1,5 @@
+com/jd/sys/DynamicDataSource.class
+com/jd/sys/DataSourceContextHolder.class
+com/jd/sys/RegisterDataSource.class
+com/jd/sys/RequestInterceptor.class
+com/jd/controller/UserInfoController.class
